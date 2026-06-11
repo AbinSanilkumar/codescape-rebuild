@@ -277,6 +277,7 @@ ul { list-style: none; }
     justify-self: end;
     width: 100%;
     max-width: 420px;
+    margin-top: 22px;
 }
 .contact-info-section h3 { font-size: 1.5rem; font-weight: 700; color: var(--text-main); margin-bottom: 28px; }
 .info-item { display: flex; gap: 16px; margin-bottom: 28px; }
